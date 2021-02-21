@@ -1,4 +1,4 @@
-# :pill: Check Weather :tophat:
+# :pill: The Breaking Bad quotes:tophat:
 
 App to get a Breakingbad qoutes 
 
