@@ -1,4 +1,4 @@
-# :pill: Check Weather ::tophat::
+# :pill: Check Weather :tophat:
 
 App to get a Breakingbad qoutes 
 
